@@ -35,3 +35,6 @@ git checkout -b datosParticulares origin/master
 
 git checkout master
 #cambiamos de branch
+
+git clone git@github.com:claudio-unlam-taller2/taller2-unlam.git
+#clonamos el proyecto
